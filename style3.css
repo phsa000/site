@@ -1,0 +1,44 @@
+body {
+    background-color: #AC2225;
+    }
+
+.caixa {
+    width: 500px; 
+    height: 650px; 
+    background: #D9D9D9; 
+    margin-top:10%;
+    margin-left: 36%;
+    display: flex;
+    align-items: center;;
+}
+
+.play {
+    display: inline-block;
+    vertical-align:auto;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-top: 120px;
+    padding-left: 30px;
+    padding-top: 20px;
+    flex: 1;
+    text-align: center;
+  }
+
+.navbar-brand {
+    color: #AC2225;
+}
+
+.titulo-container {
+    text-align: center;
+    padding: 110px 0;
+    color: white;
+}
+
+.login1 {
+    margin-left: 110px;
+}
+
+.btn-primary {
+    background-color: #AC2225;
+}
